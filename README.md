@@ -11,6 +11,7 @@ Algumas das linguagens:
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://github.com/Constdesire/Constdesire/assets/117848187/fe884646-4602-4fbc-ab24-0c4403f7f690">
+  <img align="center" alt="SQL" height="40" width="80" src="https://github.com/Constdesire/Constdesire/assets/117848187/57001d08-238c-44f5-a8db-989f9a784b1d">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://github.com/Constdesire/Constdesire/assets/117848187/d6f81ed5-4a57-4a8a-9988-bbd5ba7b40f1">
   <img align="center" alt="Laravel" height="40" width="50" src="https://github.com/Constdesire/Constdesire/assets/117848187/892449c6-6912-4652-839b-d2826c969ca8">
   <img align="center" alt="Arduino" height="40" width="50" src="https://github.com/Constdesire/Constdesire/assets/117848187/64b7ff12-c274-4b28-90b7-8b091a78b57a">
